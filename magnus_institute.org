@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       767b0c11-f33e-4a7b-8e72-f01e14349f56
+:END:
+#+title: Magnus Institute
+
+Founded in 1818.
+
+* People
+- Jonathan Sims: head archivist
+- Elias Bouchard
+- Gertrude Robinson: archivist before Sims
+- Tim, Sasha, and Martin: supplementary investigation
