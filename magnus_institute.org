@@ -6,7 +6,7 @@
 Founded in 1818.
 
 * People
-- Jonathan Sims: head archivist
-- Elias Bouchard
+- [[id:efb54e4b-46ea-4e20-9b64-a137b1a0639b][Jonathan Sims]]: head archivist
+- Elias Bouchard: head of the institute
 - Gertrude Robinson: archivist before Sims
 - Tim, Sasha, and Martin: supplementary investigation

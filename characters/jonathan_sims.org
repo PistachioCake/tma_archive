@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       efb54e4b-46ea-4e20-9b64-a137b1a0639b
+:END:
+#+title: Jonathan Sims
+
+* Early Life
+Jon's hometown is Bournemouth, UK.
+
+* Present Day
+Jon currently works for [[id:767b0c11-f33e-4a7b-8e72-f01e14349f56][The Magnus Institute]] as their Head Archivist.
